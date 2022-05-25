@@ -1,2 +1,2 @@
 # Rock Paper Scissors
-Rock Paper Scissors agains an AI
+Rock Paper Scissors against an AI
